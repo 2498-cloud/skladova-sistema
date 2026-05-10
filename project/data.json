@@ -1,0 +1,22 @@
+[
+    {
+        "name": "4",
+        "quantity": 3,
+        "price": 40.0
+    },
+    {
+        "name": "laptop",
+        "quantity": 0,
+        "price": 1500.0
+    },
+    {
+        "name": "laptop",
+        "quantity": 10,
+        "price": 1500.0
+    },
+    {
+        "name": "test",
+        "quantity": 5,
+        "price": 10.0
+    }
+]
